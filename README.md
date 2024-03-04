@@ -4,33 +4,53 @@
 This project focuses on the Exploratory Data Analysis (EDA) of a hotel booking dataset to derive valuable insights into customer booking behavior and preferences. The primary objectives are to understand trends, identify key factors influencing bookings, and provide recommendations for optimizing hotel revenue and occupancy.
 
 # Key Objectives
+
 *1. Define Business Objectives:*
 
-Set clear goals for the analysis, understanding its purpose and expected outcomes.
+- Set clear goals for the analysis, understanding its purpose and expected outcomes.
+
 *2. Data Cleaning:*
 
-Handle missing values, outliers, and ensure data consistency.
-Create a clean and well-structured dataset for analysis.
+- Handle missing values, outliers, and ensure data consistency.
+- Create a clean and well-structured dataset for analysis.
+  
 *3. Exploratory Data Analysis (EDA):*
 
-Analyze booking trends based on various factors such as hotel type, arrival month, lead time, etc.
-Identify relationships between features using statistical methods and visualizations.
-Generate new variables to capture additional insights.
+- Analyze booking trends based on various factors such as hotel type, arrival month, lead time, etc.
+- Identify relationships between features using statistical methods and visualizations.
+- Generate new variables to capture additional insights.
+
 *4. Presentation of Findings:*
 
+- Summarize key observations from the EDA.
+- Provide recommendations for improving hotel booking strategies.
+
+
 # Key Activities
+
 **Data Cleaning:**
+
 *Handling Missing Values:*
-Use appropriate methods such as imputation or removal to handle missing data.
-*Treating Missing value / Outliers:*
-Identify and address missing value / outliers that might affect the analysis.
+
+- Use appropriate methods such as imputation or removal to handle missing data.
+- 
+*Treating Outliers:*
+
+- Identify and address outliers that might affect the analysis.
+- 
 # Exploratory Data Analysis (EDA):
+
 *Booking Trends Analysis:*
-Explore how booking patterns vary based on hotel type, seasons, or other relevant factors.
+
+- Explore how booking patterns vary based on hotel type, seasons, or other relevant factors.
+  
 *Feature Relationships:*
-Use statistical methods and visualizations to identify correlations and dependencies between features.
+
+- Use statistical methods and visualizations to identify correlations and dependencies between features.
+  
 *New Variables Creation:*
-Derive new variables that could provide additional insights into customer behavior.
+
+- Derive new variables that could provide additional insights into customer behavior.
 
 # Conclusion
 
