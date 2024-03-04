@@ -33,11 +33,11 @@ This project focuses on the Exploratory Data Analysis (EDA) of a hotel booking d
 *Handling Missing Values:*
 
 - Use appropriate methods such as imputation or removal to handle missing data.
-- 
+ 
 *Treating Outliers:*
 
 - Identify and address outliers that might affect the analysis.
-- 
+  
 # Exploratory Data Analysis (EDA):
 
 *Booking Trends Analysis:*
