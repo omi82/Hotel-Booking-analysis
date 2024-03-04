@@ -38,7 +38,7 @@ This project focuses on the Exploratory Data Analysis (EDA) of a hotel booking d
 
 - Identify and address outliers that might affect the analysis.
   
-# Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 
 *Booking Trends Analysis:*
 
